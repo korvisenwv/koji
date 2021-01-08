@@ -9,12 +9,11 @@ NFT Non-Fungible Token
 ##### non-fungible token/fungible token(FT)
 ![maxresdefault](https://user-images.githubusercontent.com/474225/113468999-f1fd4c80-9417-11eb-8576-b29e05310b3b.jpg)
 
-
-
-
-
 ##### fungible token(FT)
 ![US_one_dollar_bill,_obverse,_series_2009](https://user-images.githubusercontent.com/474225/113469000-f295e300-9417-11eb-8ae6-0fb0364c4a46.jpg)
+
+
+![nft-assets-1024x614](https://user-images.githubusercontent.com/474225/113535986-f144f180-95a2-11eb-9bfd-6785a465f54d.jpg)
 
 
 
