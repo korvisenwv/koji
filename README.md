@@ -80,6 +80,19 @@ https://service.link
 
 
 ### nft marketplace
+The general issue is that people need to purchase Ether on exchange platform(coinbase, crypto.com, binance, etc) and send eth to their wallet such as metamask to use nft marketplace.    
+   
+gas fee is expensive now.   
+   
+nft art inherits art industry issue(race).   
+   
+
+
+### ranking site
+
+crypto slam  
+https://www.cryptoslam.io/  
+
 
 
 
@@ -93,6 +106,12 @@ https://rainbow.me/
 
 
 ### company
+
+Dapper Labs  
+https://www.dapperlabs.com/  
+
+ImmutableX  
+https://www.immutable.com/  
 
 
 ### repo
