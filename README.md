@@ -85,7 +85,43 @@ The general issue is that people need to purchase Ether on exchange platform(coi
 gas fee is expensive now.   
    
 nft art inherits art industry issue(race).   
+
+
+OpenSea  
+https://opensea.io/  
    
+Rarible  
+https://rarible.com/  
+
+
+### cryptocurrency that is related to NFT
+
+Enjin Coin ⭐️
+https://enjin.io/  
+
+Chiliz  ⭐️  
+https://www.chiliz.com/en/
+
+flow  ⭐️   
+https://www.onflow.org/  
+
+Decentraland/MANA	⭐️    
+SAND  
+WAX  
+Axie Infinity  
+RedFOX Labs  
+Gala  
+WHALE  
+Dego Finance	  
+NFTX  
+Rarible/RARI ⭐️   
+Ethernity Chain	
+REVV  
+Bondly  
+Aavegotchi  
+Terra Virtua Kolect	  
+Decentral Games	 
+Meme  
 
 
 ### ranking site
