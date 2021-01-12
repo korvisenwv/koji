@@ -19,9 +19,11 @@ NFT Non-Fungible Token
 
 ### fungible token
 ERC20 (MKR, AAVE, SNX)   
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md  
 
 ### non-fungible token
-ERC721
+ERC721  
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md  
 
 ### smart contract
 Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary's involvement or time loss.
@@ -125,6 +127,8 @@ Meme
 
 
 ### ranking site
+nonfungible  
+https://nonfungible.com/  
 
 crypto slam  
 https://www.cryptoslam.io/  
@@ -151,7 +155,8 @@ https://www.immutable.com/
 
 
 ### repo
-
+minty  
+https://github.com/yusefnapora/minty  
 
 ### paper
 - Bitcoin: A Peer-to-Peer Electronic Cash System  
@@ -159,7 +164,9 @@ Satoshi Nakamoto (https://bitcoin.org/ja/bitcoin-paper)
 
 - Ethereum: A Next Generation Smart Contract & Decentralized Application Platform  
 Vitalik Buterin (https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)  
-
+### blog
+nftnyc  
+https://nftnyc.medium.com/  
 
 ### video
 
