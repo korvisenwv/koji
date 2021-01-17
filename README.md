@@ -55,13 +55,15 @@ But on private blockchain, they are possible.
 
 ### mint
 `mint` means registering the token on the blockchain and associating the token with mdeia file such as an image/video file on a market place.
-When we mint, we have to pay the fee, gas by cryptocurrency. The place is varied by a platform.
+When we mint, we have to pay the fee, gas by cryptocurrency. The place is varied by a platform and blockchain.
+Currently, most platforms support Ethereum. If you use it, a buyer needs to use Ether to pay.
 
 ### gas
+In this case, gas is the fee for minting.  
+https://ethereum.org/en/developers/docs/gas/#top
 
 
-
-### service
+### famouse NFT service
 
 - cryptopunks  
 https://www.larvalabs.com/cryptopunks
@@ -96,10 +98,24 @@ https://opensea.io/
 Rarible  
 https://rarible.com/  
 
+SuperRare  
+https://superrare.co/  
+  
+
+Async Art  
+https://async.art/  
+  
+
+Foundation  
+https://foundation.app/  
+  
+  
+Zora  
+https://zora.co/
 
 ### cryptocurrency that is related to NFT
 
-Enjin Coin ⭐️
+Enjin Coin ⭐️  
 https://enjin.io/  
 
 Chiliz  ⭐️  
