@@ -91,6 +91,7 @@ gas fee is expensive now.
    
 nft art inherits art industry issue(race).   
 
+nft guarantees only ownership and it doesn't include opyright, and trademark right.  
 
 OpenSea  
 https://opensea.io/  
