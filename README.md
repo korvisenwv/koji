@@ -186,9 +186,16 @@ Satoshi Nakamoto (https://bitcoin.org/ja/bitcoin-paper)
 
 - Ethereum: A Next Generation Smart Contract & Decentralized Application Platform  
 Vitalik Buterin (https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)  
-### blog
+### blog/article
 nftnyc  
 https://nftnyc.medium.com/  
+
+How To Create NFTs With Solidity   
+https://betterprogramming.pub/how-to-create-nfts-with-solidity-4fa1398eb70a  
+
+Would you pay US$590,000 for a meme? Nyan Cat just sold for six figures worth of cryptocurrency, opening the door to even more expensive online NFT art sales    
+https://www.scmp.com/magazines/style/tech-design/article/3123302/would-you-pay-us590000-meme-nyan-cat-just-sold-six   
+
 
 ### video
 
