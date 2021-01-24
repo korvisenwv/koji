@@ -93,6 +93,8 @@ nft art inherits art industry issue(race).
 
 nft guarantees only ownership and it doesn't include opyright, and trademark right.  
 
+https://docs.google.com/spreadsheets/d/1WJE9kr5PWpIhHygrRBetmokBVpc78RzAddeLSAV878M/edit#gid=0   
+
 OpenSea  
 https://opensea.io/  
    
