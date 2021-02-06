@@ -7,6 +7,11 @@
 ## wallet
 
 ## Ethereum
+Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee. It also powers applications that everyone can use and no one can take down.
+2.0 is moving from Proof of work to staking
+
+## staking
+Staking is the process of actively participating in transaction validation (similar to mining) on a proof-of-stake (PoS) blockchain. On these blockchains, anyone with a minimum-required balance of a specific cryptocurrency can validate transactions and earn Staking rewards.
 
 ## bitcoin address
 
