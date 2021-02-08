@@ -3,6 +3,7 @@
 ## proof of work
 
 ## transaction
+Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the blockchain network.
 
 ## wallet
 
