@@ -5,6 +5,9 @@
 ## transaction
 Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the blockchain network.
 
+## block
+Blocks are batches of transactions with a hash of the previous block in the chain. This links blocks together (in a chain) because hashes are cryptographically derived from the block data. This prevents fraud, because one change in any block in history would invalidate all the following blocks as all subsequent hashes would change and everyone running the blockchain would notice.
+
 ## wallet
 
 ## Ethereum
@@ -17,6 +20,9 @@ Staking is the process of actively participating in transaction validation (simi
 ## bitcoin address
 
 ## node
+"Node" refers to a running piece of client software. A client is an implementation of blockchain that verifies all transactions in each block, keeping the network secure and the data accurate.
 
 ## 51 percent attack/majority attack
 A 51% attack is a potential attack on a blockchain network, where a single entity or organization is able to control the majority of the hash rate, potentially causing a network disruption. In such a scenario, the attacker would have enough mining power to intentionally exclude or modify the ordering of transactions. They could also reverse transactions they made while being in control - leading to a double-spending problem.
+
+## DApp
