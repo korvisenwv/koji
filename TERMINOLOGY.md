@@ -1,6 +1,9 @@
 ## mining
 
 ## proof of work
+Proof of Work (PoW) is the mechanism that allows the decentralized blockchain network to come to consensus, or agree on things like account balances and the order of transactions. This prevents users "double spending" their coins and ensures that the Ethereum chain is incredibly difficult to attack or overwrite.
+
+
 
 ## transaction
 Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the blockchain network.
