@@ -12,6 +12,11 @@ Transactions are cryptographically signed instructions from accounts. An account
 Blocks are batches of transactions with a hash of the previous block in the chain. This links blocks together (in a chain) because hashes are cryptographically derived from the block data. This prevents fraud, because one change in any block in history would invalidate all the following blocks as all subsequent hashes would change and everyone running the blockchain would notice.
 
 ## wallet
+An application that let a user intracts with his/her account.  
+- hardware wallet 
+- mobile 
+- web wallet (browser)
+- desktop app
 
 ## Ethereum
 Ethereum is a technology that lets you send cryptocurrency to anyone for a small fee. It also powers applications that everyone can use and no one can take down.
