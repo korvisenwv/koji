@@ -104,17 +104,23 @@ https://rarible.com/
 SuperRare  
 https://superrare.co/  
   
-
 Async Art  
 https://async.art/  
   
-
 Foundation  
 https://foundation.app/  
-  
+
+Nifty Gateway  
+https://niftygateway.com/  
   
 Zora  
-https://zora.co/
+https://zora.co/  
+
+Marble(card)  
+https://marble.cards/
+
+Audius(music)  
+https://audius.co/  
 
 ### cryptocurrency that is related to NFT
 
