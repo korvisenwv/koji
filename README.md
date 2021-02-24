@@ -19,6 +19,7 @@ NFT Non-Fungible Token
 
 ### fungible token
 ERC20 (MKR, AAVE, SNX)   
+Ethereum Request for Comments：Token Standard #20  
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md  
 
 ### non-fungible token
