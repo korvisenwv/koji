@@ -34,3 +34,8 @@ Staking is the process of actively participating in transaction validation (simi
 A 51% attack is a potential attack on a blockchain network, where a single entity or organization is able to control the majority of the hash rate, potentially causing a network disruption. In such a scenario, the attacker would have enough mining power to intentionally exclude or modify the ordering of transactions. They could also reverse transactions they made while being in control - leading to a double-spending problem.
 
 ## DApp
+
+## Truffle
+Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.  
+
+## Web3
