@@ -2,8 +2,6 @@
 ![blockchain](https://user-images.githubusercontent.com/474225/114293931-77ac7800-9a68-11eb-9464-797099bac6ca.png)
 
 
-
-
 ## Fiat(money)
 Fiat money is a government-issued currency that is not backed by a commodity such as gold. Fiat money gives central banks greater control over the economy because they can control how much money is printed. Most modern paper currencies, such as the U.S. dollar, are fiat currencies.
 
@@ -51,3 +49,8 @@ Truffle is the most popular development framework for Ethereum with a mission to
 ## Web3
 web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
+## Hyperledger
+Opensource blockchain platform that is developed by Linux Foundation.
+
+## Solidity
+A programming language for developing a smart contract on Ethereum blockchain network. The syntax is similart to Javascript.
