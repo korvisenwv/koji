@@ -64,6 +64,10 @@ In this case, gas is the fee for minting.
 https://ethereum.org/en/developers/docs/gas/#top
 
 
+### steps for publishing NFT
+cost  
+https://youtu.be/11eTOur4lPs   
+
 ### famouse NFT service
 
 - cryptopunks  
@@ -160,17 +164,6 @@ https://nonfungible.com/
 crypto slam  
 https://www.cryptoslam.io/  
 
-
-### DeFi
-https://www.coindesk.com/what-is-defi  
-
-### wallet
-
-- metamask  
-https://metamask.io/
-
-- rainbow   
-https://rainbow.me/
 
 
 ### ref
