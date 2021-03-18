@@ -54,3 +54,15 @@ Opensource blockchain platform that is developed by Linux Foundation.
 
 ## Solidity
 A programming language for developing a smart contract on Ethereum blockchain network. The syntax is similart to Javascript.
+
+
+## DeFi
+https://www.coindesk.com/what-is-defi  
+
+## wallet
+
+- metamask  
+https://metamask.io/
+
+- rainbow   
+https://rainbow.me/
