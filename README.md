@@ -5,6 +5,8 @@ NFT Non-Fungible Token
 
 ### what is non-fungible token?
 
+### valuable?
+NFT allows people to make digital assets limited products.
 
 ##### non-fungible token/fungible token(FT)
 ![maxresdefault](https://user-images.githubusercontent.com/474225/113468999-f1fd4c80-9417-11eb-8576-b29e05310b3b.jpg)
