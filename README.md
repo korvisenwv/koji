@@ -129,6 +129,9 @@ https://marble.cards/
 Audius(music)  
 https://audius.co/  
 
+super chief gallery nft (super chief gallery nft has a phsycal gallery in Manhattan)     
+http://superchiefgallerynft.com/       
+
 ### cryptocurrency that is related to NFT
 
 Enjin Coin ⭐️  
