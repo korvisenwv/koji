@@ -1,4 +1,4 @@
-## personal memo for NFT
+## NFT
 
 
 NFT Non-Fungible Token
