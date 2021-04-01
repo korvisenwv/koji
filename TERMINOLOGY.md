@@ -8,10 +8,19 @@ Fiat money is a government-issued currency that is not backed by a commodity suc
 
 ## mining
 
-## proof of work
+## proof of work (PoW)
 Proof of Work (PoW) is the mechanism that allows the decentralized blockchain network to come to consensus, or agree on things like account balances and the order of transactions. This prevents users "double spending" their coins and ensures that the Ethereum chain is incredibly difficult to attack or overwrite.
 
 
+## staking
+Staking is the process of actively participating in transaction validation (similar to mining) on a proof-of-stake (PoS) blockchain. On these blockchains, anyone with a minimum-required balance of a specific cryptocurrency can validate transactions and earn Staking rewards.    
+  
+ex: requirements of Ethereum  
+- A minimum of 32 ETH per validator
+- Computer with sufficient hardware specs
+- Internet connection
+
+## proof of stake (PoS)
 
 ## transaction
 Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the blockchain network.
