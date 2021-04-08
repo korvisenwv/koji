@@ -1,7 +1,11 @@
 # Blockchain
 
-##
+## [TERMINOLOGY](https://github.com/koji/blockchain_info/blob/main/TERMINOLOGY.md)
+
+
 
 ## [NFT](https://github.com/koji/blockchain_info/blob/main/NFT.md)
 
-## Metaverse
+
+
+## [Metaverse](https://github.com/koji/blockchain_info/blob/main/Metaverse.md)
