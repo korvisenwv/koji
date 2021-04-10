@@ -64,6 +64,9 @@ Opensource blockchain platform that is developed by Linux Foundation.
 ## Solidity
 A programming language for developing a smart contract on Ethereum blockchain network. The syntax is similart to Javascript.
 
+## DAO (Decentralized Autonomous Organization)
+
+## DAC (Decentralized Autonomous Company)
 
 ## DeFi
 https://www.coindesk.com/what-is-defi  
