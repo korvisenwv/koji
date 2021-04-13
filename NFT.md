@@ -212,3 +212,9 @@ https://www.youtube.com/watch?v=Gjo1hlIey9g
 
 NFT TUTORIALS(14 videos)    
 https://www.youtube.com/watch?v=OIS5aLtPbUE&list=PLnjh8FWWpVQhZTrsuOcSJzrBn10O1MnQi&index=1  
+
+
+### special NFT
+
+https://www.phillips.com/mdj   
+By using smart contract the work can keep generating a new version with ownership info, the timing of copy, and how many times copied.  
