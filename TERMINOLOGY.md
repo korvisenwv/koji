@@ -65,6 +65,19 @@ Opensource blockchain platform that is developed by Linux Foundation.
 A programming language for developing a smart contract on Ethereum blockchain network. The syntax is similart to Javascript.
 
 ## DAO (Decentralized Autonomous Organization)
+One of the major features of digital currencies is that they are decentralized. This means they are not controlled by a single institution like a government or central bank, but instead are divided among a variety of computers, networks, and nodes. In many cases, virtual currencies make use of this decentralized status to attain levels of privacy and security that are typically unavailable to standard currencies and their transactions.
+
+Ex The DAO --> failed   
+$50M  
+1. Allow hackers to take $50M
+2. soft folk --> cancel hacker's address and Ether(lose $50M)
+```
+In blockchain technology, a soft fork is a change to the software protocol where only previously valid transaction blocks are made invalid. Because old nodes will recognize the new blocks as valid, a soft fork is backwards-compatible. This kind of fork requires only a majority of the miners upgrading to enforce the new rules, as opposed to a hard fork that requires all nodes to upgrade and agree on the new version.
+```
+4. hard folk --> get back $50M, but create an unexpected case(Centralized operation)
+```
+A hard fork (or hardfork), as it relates to blockchain technology, is a radical change to a network's protocol that makes previously invalid blocks and transactions valid, or vice-versa. A hard fork requires all nodes or users to upgrade to the latest version of the protocol software.
+```
 
 ## DAC (Decentralized Autonomous Company)
 
