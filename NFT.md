@@ -63,7 +63,11 @@ Currently, most platforms support Ethereum. If you use it, a buyer needs to use 
 
 ### gas
 In this case, gas is the fee for minting.  
-https://ethereum.org/en/developers/docs/gas/#top
+https://ethereum.org/en/developers/docs/gas/#top    
+
+     
+Current price   
+https://www.gasnow.org/    
 
 
 ### steps for publishing NFT
