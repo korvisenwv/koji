@@ -84,8 +84,10 @@ A hard fork (or hardfork), as it relates to blockchain technology, is a radical 
 ## DeFi
 https://www.coindesk.com/what-is-defi  
 
-## wallet
+## ICO (Initial Coin Offering)
+ICO is a popular fundrasing method for blockchain startups/projects. It's similar to IPO.  
 
+## wallet
 - metamask  
 https://metamask.io/
 
