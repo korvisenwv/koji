@@ -134,8 +134,11 @@ Audius(music)
 https://audius.co/  
 
 super chief gallery nft (super chief gallery nft has a phsycal gallery in Manhattan)     
-http://superchiefgallerynft.com/       
+http://superchiefgallerynft.com/     
 
+hicetnunc2000(cleanNFT because of Tezos)   
+https://www.hicetnunc.xyz/ 
+   
 ### cryptocurrency that is related to NFT
 
 Enjin Coin ⭐️  
