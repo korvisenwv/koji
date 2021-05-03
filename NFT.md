@@ -137,8 +137,9 @@ super chief gallery nft (super chief gallery nft has a phsycal gallery in Manhat
 http://superchiefgallerynft.com/     
 
 hicetnunc2000(cleanNFT because of Tezos)   
-https://www.hicetnunc.xyz/ 
-   
+https://www.hicetnunc.xyz/   
+https://github.com/hicetnunc2000  
+  
 ### cryptocurrency that is related to NFT
 
 Enjin Coin ⭐️  
