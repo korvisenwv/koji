@@ -92,6 +92,9 @@ https://www.coindesk.com/what-is-defi
 ## ICO (Initial Coin Offering)
 ICO is a popular fundrasing method for blockchain startups/projects. It's similar to IPO.  
 
+## Altcoin
+Alternative coin that is a cryptocurrency after Bitcoin. Ex, Eth, Dogecoin, Litecoin Ripple etc.  
+
 ## wallet
 - metamask  
 https://metamask.io/
