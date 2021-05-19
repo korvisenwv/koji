@@ -74,7 +74,7 @@ https://www.gasnow.org/
 cost  
 https://youtu.be/11eTOur4lPs   
 
-### famouse NFT service
+### Famous NFT service
 
 - cryptopunks  
 https://www.larvalabs.com/cryptopunks
@@ -146,6 +146,24 @@ https://cargo.build/
 Mintable  
 https://mintable.app/   
 We can mint without paying.  
+
+KnownOrigin  
+https://knownorigin.io/ 
+
+Dgitalax  
+https://marketplace.digitalax.xyz/ 
+
+makersplace  
+https://makersplace.com/   
+
+Digicol   
+https://www.digicol.io/ 
+
+XENO NFT Hub  
+https://xno.live/   
+
+SIGN Art  
+https://www.sign-art.app/   
 
 ### cryptocurrency that is related to NFT
 
