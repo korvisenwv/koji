@@ -107,7 +107,8 @@ nft guarantees only ownership and it doesn't include opyright, and trademark rig
 https://docs.google.com/spreadsheets/d/1WJE9kr5PWpIhHygrRBetmokBVpc78RzAddeLSAV878M/edit#gid=0   
 
 OpenSea  
-https://opensea.io/  
+https://opensea.io/ 
+OpenSea supports image/video/audio/pdf/3d model gltf. 
    
 Rarible  
 https://rarible.com/  
