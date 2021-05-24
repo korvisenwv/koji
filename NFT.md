@@ -197,6 +197,9 @@ Meme
 
 
 ### ranking site
+Crypto Srt Pulse   
+https://cryptoartpulse.com/   
+
 nonfungible  
 https://nonfungible.com/  
 
