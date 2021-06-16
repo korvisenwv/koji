@@ -4,7 +4,7 @@ https://docs.opensea.io/docs/getting-started
 ### ERC1155 Tutorial  
 https://docs.opensea.io/docs/opensea-erc1155-tutorial  
 
-
+## Blog
 ### Learn Solidity: Introduction
 remix IDE
 https://remix.ethereum.org/
@@ -32,3 +32,6 @@ https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29
 ### Build Your First Dapp With Web3.js
 https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61
 
+## Youtube
+Building on Ethereum    
+https://www.youtube.com/watch?v=ogjOjUjCVLk   
