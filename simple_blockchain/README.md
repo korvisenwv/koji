@@ -10,3 +10,10 @@ Block
 Blockchain  
 Array of blocks  
 GenesisBlock: The first block  
+
+
+## Mining
+
+
+
+## Transaction
