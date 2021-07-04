@@ -89,6 +89,11 @@ A hard fork (or hardfork), as it relates to blockchain technology, is a radical 
 ## DeFi
 https://www.coindesk.com/what-is-defi  
 
+## DEX
+A decentralized exchange (DEX) is a peer-to-peer (P2P) marketplace that connects cryptocurrency buyers and sellers. In contrast to centralized exchanges (CEXs), decentralized platforms are non-custodial, meaning a user remains in control of their private keys when transacting on a DEX platform.   
+https://coinmarketcap.com/rankings/exchanges/dex/   
+UniSwap/Sushiswap   
+
 ## ICO (Initial Coin Offering)
 ICO is a popular fundrasing method for blockchain startups/projects. It's similar to IPO.  
 
