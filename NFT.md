@@ -57,7 +57,7 @@ But on private blockchain, they are possible.
 
 
 ### mint
-`mint` means registering the token on the blockchain and associating the token with mdeia file such as an image/video file on a market place.
+`mint` means registering the token on the blockchain and associating the token with media file such as an image/video file on a market place.
 When we mint, we have to pay the fee, gas by cryptocurrency. The place is varied by a platform and blockchain.
 Currently, most platforms support Ethereum. If you use it, a buyer needs to use Ether to pay.
 
